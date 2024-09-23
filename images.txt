@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 quay.io/kubevirt/cdi-importer:v1.60.2
 quay.io/kubevirt/cdi-cloner:v1.60.2
+labring/kubesphere:v3.4.0
