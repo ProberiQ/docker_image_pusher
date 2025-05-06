@@ -1,3 +1,4 @@
+saplabs/hanaexpress:2.00.076.00.20240701.1
 canal/canal-server
 nginx
 #支持私库
