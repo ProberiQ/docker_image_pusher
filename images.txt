@@ -1,11 +1,7 @@
+keking/kkfileview:4.1.0
 saplabs/hanaexpress:2.00.076.00.20240701.1
-canal/canal-server
-nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-quay.io/kubevirt/cdi-importer:v1.60.2
-sonatype/nexus3
-labring/elastic:7.17.3-arm64
 ghcr.io/open-webui/open-webui:main
