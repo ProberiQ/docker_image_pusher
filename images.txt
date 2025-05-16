@@ -1,5 +1,5 @@
 nacos/nacos-peer-finder-plugin:1.1
-nacos/nacos-server:v2.4.3
+nacos/nacos-server:v3.0.0
 pi4k8s/kkfileview:4.4.0
 keking/kkfileview:4.1.0
 saplabs/hanaexpress:2.00.076.00.20240701.1
