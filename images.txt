@@ -1,4 +1,4 @@
-diouxx/glpi
+glpi/glpi:latest
 nginx:alpine
 --platform=linux/arm64/v8 nginx:alpine 
 gitlab/gitlab-ce:16.0.10-ce.0
