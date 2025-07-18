@@ -1,3 +1,4 @@
+cgwire/cgwire
 docker.io/jettech/kube-webhook-certgen:v1.5.2
 liangjw/kube-webhook-certgen:v1.1.1
 nginx:alpine
