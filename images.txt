@@ -1,6 +1,6 @@
-cgwire/cgwire
-docker.io/jettech/kube-webhook-certgen:v1.5.2
-liangjw/kube-webhook-certgen:v1.1.1
+minio/minio
+apache/amoro
+minio/mc
 nginx:alpine
 --platform=linux/arm64/v8 nginx:alpine 
 mcr.microsoft.com/mssql/server:2016-latest
