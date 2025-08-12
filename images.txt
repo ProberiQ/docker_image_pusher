@@ -1,10 +1,8 @@
+projecthami/ascend-device-plugin:v1.0.1
 labring/kubernetes:v1.24.17-4.3.7-arm64
 labring/helm:v3.12.3-arm64
 labring/calico:3.24.6-arm64
 eipwork/kuboard:v3
-minio/minio
-apache/amoro
-minio/mc
 nginx:alpine
 --platform=linux/arm64/v8 nginx:alpine 
 mcr.microsoft.com/mssql/server:2016-latest
