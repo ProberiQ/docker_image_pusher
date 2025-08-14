@@ -1,3 +1,4 @@
+ibmcom/db2:11.5.8.0
 --platform=linux/arm64 nginx:1.26.0
 --platform=linux/arm64 projecthami/ascend-device-plugin:v1.0.1
 --platform=linux/arm64 projecthami/hami:v2.6.0
