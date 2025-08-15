@@ -1,3 +1,4 @@
+--platform=linux/arm64 jettech/kube-webhook-certgen:v1.5.2
 ibmcom/db2:11.5.8.0
 --platform=linux/arm64 nginx:1.26.0
 --platform=linux/arm64 projecthami/ascend-device-plugin:v1.0.1
