@@ -1,3 +1,4 @@
+truevoly/oracle-12c:latest
 1panel/kubepi:v1.9.0
 --platform=linux/arm64 jettech/kube-webhook-certgen:v1.5.2
 ibmcom/db2:11.5.8.0
