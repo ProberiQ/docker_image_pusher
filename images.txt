@@ -15,7 +15,6 @@ eipwork/kuboard:v3
 
 --platform=linux/arm64/v8 nginx:alpine 
 mcr.microsoft.com/mssql/server:2016-latest
-pi4k8s/kkfileview:4.4.0
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #支持指定架构
