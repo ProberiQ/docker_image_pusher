@@ -1,4 +1,4 @@
-opengauss/opengauss:6.0.2
+enmotech/opengauss:6.0.2
 opengauss/opengauss:7.0.0-RC2.B015
 --platform=linux/arm64 jettech/kube-webhook-certgen:v1.5.2
 ibmcom/db2:11.5.8.0
