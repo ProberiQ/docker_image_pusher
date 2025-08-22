@@ -1,7 +1,4 @@
-rancher/shell:v0.4.1
-rancher/rancher-agent:v2.11.3
-rancher/rancher:v2.11.3
-1panel/kubepi:v1.9.0
+opengauss/opengauss:7.0.0-RC2.B015
 --platform=linux/arm64 jettech/kube-webhook-certgen:v1.5.2
 ibmcom/db2:11.5.8.0
 --platform=linux/arm64 nginx:1.26.0
