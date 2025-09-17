@@ -1,13 +1,6 @@
+hugegraph/hubble:1.5.0
 hugegraph/hugegraph:1.5.0
 enmotech/opengauss:6.0.0
-opengauss/opengauss:7.0.0-RC2.B015
---platform=linux/arm64 jettech/kube-webhook-certgen:v1.5.2
-ibmcom/db2:11.5.8.0
---platform=linux/arm64 nginx:1.26.0
---platform=linux/arm64 projecthami/ascend-device-plugin:v1.0.1
---platform=linux/arm64 projecthami/hami:v2.6.0
---platform=linux/arm64 jettech/kube-webhook-certgen:v1.5.2
---platform=linux/arm64 liangjw/kube-webhook-certgen:v1.1.1
 
 labring/kubernetes:v1.24.17-4.3.7-arm64
 labring/helm:v3.12.3-arm64
