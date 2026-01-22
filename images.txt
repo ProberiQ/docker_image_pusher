@@ -1,4 +1,4 @@
-docker.n8n.io/n8nio/n8n:latest
+n8nio/n8n:2.5.0
 --platform=linux/arm64 kubesphere/nginx-ingress-controller:v1.3.1
 
 labring/kubernetes:v1.24.17-4.3.7-arm64
