@@ -1,6 +1,7 @@
+vllm/vllm-openai:v0.10.1.1
 n8nio/n8n:2.4.5
 calciumion/new-api:v0.10.5
-vllm/vllm-openai:v0.14.0
+
 
 --platform=linux/arm64 kubesphere/nginx-ingress-controller:v1.3.1
 
