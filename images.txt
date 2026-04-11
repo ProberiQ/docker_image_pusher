@@ -1,3 +1,4 @@
+milvusdb/milvus:v2.6.13
 calciumion/new-api:v0.12.6
 yidadaa/chatgpt-next-web:v2.15.6
 vllm/vllm-openai:v0.10.1.1
