@@ -1,4 +1,5 @@
-milvusdb/milvus:v2.6.14
+docker.io/milvusdb/etcd:3.5.25-r1
+minio/minio:RELEASE.2024-12-18T13-15-44Z
 milvusdb/milvus-operator:v1.3.6
 milvusdb/milvus:v2.6.13
 calciumion/new-api:v0.12.6
