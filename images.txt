@@ -1,3 +1,4 @@
+ghcr.io/neggles/sd-webui-docker:latest
 zilliz/attu:v2.6
 docker.io/milvusdb/etcd:3.5.25-r1
 minio/minio:RELEASE.2024-12-18T13-15-44Z
