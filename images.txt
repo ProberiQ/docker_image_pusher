@@ -1,3 +1,4 @@
+gitlab/gitlab-ce:15.1.5-ce.0
 ghcr.io/neggles/sd-webui-docker:latest
 zilliz/attu:v2.6
 docker.io/milvusdb/etcd:3.5.25-r1
