@@ -1,3 +1,6 @@
+apache/apisix-ingress-controller:2.1.0
+ghcr.io/api7/adc:0.26.0
+
 gitlab/gitlab-ce:15.1.5-ce.0
 ghcr.io/neggles/sd-webui-docker:latest
 zilliz/attu:v2.6
