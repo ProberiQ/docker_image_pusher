@@ -1,5 +1,6 @@
 docker.io/bitnamilegacy/etcd:latest
 busybox:1.28
+apache/apisix:3.17.0-ubuntu
 apache/apisix-ingress-controller:2.1.0
 ghcr.io/api7/adc:0.26.0
 
