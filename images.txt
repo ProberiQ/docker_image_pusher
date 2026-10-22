@@ -1,3 +1,4 @@
+apache/apisix-ingress-controller:1.6.0
 docker.io/bitnamilegacy/etcd:latest
 busybox:1.28
 apache/apisix:3.17.0-ubuntu
