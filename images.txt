@@ -1,3 +1,4 @@
+ghcr.io/api7/adc:0.27.1
 apache/apisix:2.15.1-debian
 apache/apisix-dashboard:2.15.0-alpine
 docker.io/bitnami/etcd:3.5.4-debian-11-r14
